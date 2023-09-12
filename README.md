@@ -1,5 +1,5 @@
 # smart_window
-Arduino project.
+/*Arduino project. total code*/
 
 
 
